@@ -56,8 +56,7 @@ drop table user_pannel
 
 alter table user_pannel
 
-ALTER TABLE user_pannel
-DROP CONSTRAINT(_______________) ;
+
 
 
 
